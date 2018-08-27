@@ -9,5 +9,5 @@ func Upper(s string) string {
 
 //Lower returns the lower of the given argument
 func Lower(s string) string {
-  return string.ToLower(s)
+  return strings.ToLower(s)
 }
